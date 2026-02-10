@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0fadc8d8-cd91-4be6-9203-ba9877df9a1b">
+  <name>Тест1С</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тест1 С</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="87b44432-4231-4da9-8270-f340c705d48e"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="6e5fb55a-c26f-4695-82b6-e6c122285488"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="f89092eb-3762-4de8-b735-205ef0e1c604"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="13a2d0f5-fb42-43fc-9131-906952ae3055"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="85dd369d-c9db-4430-88e5-603073a3a242"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="2d739ba3-6beb-4f3c-b64c-e6b65fdb50ae"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="23096f19-c67e-4421-9e97-34b5b55469f0"/>
+  <configurationExtensionCompatibilityMode>8.3.27</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.27</compatibilityMode>
+  <languages uuid="bcfcf1fa-77e2-4c74-abb9-995ee7ec5374">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <catalogs>Catalog.СправочникТест</catalogs>
+  <dataProcessors>DataProcessor.РекурсияСправочник</dataProcessors>
+</mdclass:Configuration>
